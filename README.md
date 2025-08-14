@@ -1,7 +1,8 @@
-# Loan Eligibility Prediction Using Machine Learning
+# Loan Eligibility Prediction Using Machine Learning Techniques.
 
 ## 📌 Overview
-A machine learning project that predicts loan approval status based on applicant financial and demographic data. Includes data preprocessing, exploratory analysis, model training (Decision Tree, Naive Bayes), and performance evaluation, with Naive Bayes achieving the best accuracy
+This project predicts loan approval status based on applicant demographic and financial information.  
+The goal is to help financial institutions automate the loan approval process, making it faster, more accurate, and fairer.
 
 ## 📊 Dataset
 The dataset contains information such as:
